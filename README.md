@@ -1,1 +1,2 @@
-# BallsToCup_Sunday
+# BallsToCup
+Balls to Cup
